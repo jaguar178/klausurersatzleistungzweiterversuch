@@ -1,1 +1,34 @@
-
+{
+  "BMW S1000RR": {
+    "leistung": "210 PS",
+    "hubraum": "999 ccm",
+    "gewicht": "197 kg",
+    "0-100 km/h": "ca. 2,8 s",
+    "höchstgeschwindigkeit": "ca. 299 km/h",
+    "preis": "ab ca. 22.500 €"
+  },
+  "Kawasaki H2R": {
+    "leistung": "310 PS",
+    "hubraum": "998 ccm",
+    "gewicht": "216 kg",
+    "0-100 km/h": "ca. 2,5 s",
+    "höchstgeschwindigkeit": "> 400 km/h (Rennstrecke)",
+    "preis": "ca. 55.000 €"
+  },
+  "Honda CRF 250 Rally": {
+    "leistung": "25 PS",
+    "hubraum": "249 ccm",
+    "gewicht": "152 kg",
+    "0-100 km/h": "ca. 10 s",
+    "höchstgeschwindigkeit": "ca. 135 km/h",
+    "preis": "ab ca. 6.000 €"
+  },
+  "KTM EXC 300": {
+    "leistung": "ca. 50 PS",
+    "hubraum": "293 ccm",
+    "gewicht": "ca. 105 kg",
+    "0-100 km/h": "ca. 4 s",
+    "höchstgeschwindigkeit": "ca. 150 km/h",
+    "preis": "ca. 10.500 € (Umbau abhängig)"
+  }
+}
