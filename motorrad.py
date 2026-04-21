@@ -4,6 +4,10 @@ import numpy as np
 from PIL import Image
 import json
 
+model = tf.keras.models.load_model(
+    "keras_model.h5",
+    custom_objects={"mein_layer": MeinLayer}
+)
 # Page config
 st.set_page_config(
     page_title="Modell erkenner",
