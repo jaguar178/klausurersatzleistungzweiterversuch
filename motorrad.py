@@ -6,7 +6,7 @@ import json
 
 # Page config
 st.set_page_config(
-    page_title="Motorrad KI",
+    page_title="Modell erkenner",
     page_icon="🏍️",
     layout="centered"
 )
